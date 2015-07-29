@@ -1,0 +1,27 @@
+[22-May-2015 23:25:15 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/codeigniter/application/views/welcome_message.php on line 7
+[22-May-2015 23:25:15 UTC] PHP Stack trace:
+[22-May-2015 23:25:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/codeigniter/index.php:0
+[22-May-2015 23:25:15 UTC] PHP   2. require_once() /home/ubuntu/workspace/codeigniter/index.php:202
+[22-May-2015 23:25:15 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359}() /home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359
+[22-May-2015 23:25:15 UTC] PHP   4. Welcome->index() /home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359
+[22-May-2015 23:25:15 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/codeigniter/application/controllers/welcome.php:22
+[22-May-2015 23:25:15 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/codeigniter/system/core/Loader.php:419
+[22-May-2015 23:25:15 UTC] PHP   7. include() /home/ubuntu/workspace/codeigniter/system/core/Loader.php:833
+[22-May-2015 23:25:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/codeigniter/application/views/welcome_message.php on line 7
+[22-May-2015 23:25:25 UTC] PHP Stack trace:
+[22-May-2015 23:25:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/codeigniter/index.php:0
+[22-May-2015 23:25:25 UTC] PHP   2. require_once() /home/ubuntu/workspace/codeigniter/index.php:202
+[22-May-2015 23:25:25 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359}() /home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359
+[22-May-2015 23:25:25 UTC] PHP   4. Welcome->index() /home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359
+[22-May-2015 23:25:25 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/codeigniter/application/controllers/welcome.php:22
+[22-May-2015 23:25:25 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/codeigniter/system/core/Loader.php:419
+[22-May-2015 23:25:25 UTC] PHP   7. include() /home/ubuntu/workspace/codeigniter/system/core/Loader.php:833
+[22-May-2015 23:25:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/codeigniter/application/views/welcome_message.php on line 7
+[22-May-2015 23:25:40 UTC] PHP Stack trace:
+[22-May-2015 23:25:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/codeigniter/index.php:0
+[22-May-2015 23:25:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/codeigniter/index.php:202
+[22-May-2015 23:25:40 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359}() /home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359
+[22-May-2015 23:25:40 UTC] PHP   4. Welcome->index() /home/ubuntu/workspace/codeigniter/system/core/CodeIgniter.php:359
+[22-May-2015 23:25:40 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/codeigniter/application/controllers/welcome.php:22
+[22-May-2015 23:25:40 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/codeigniter/system/core/Loader.php:419
+[22-May-2015 23:25:40 UTC] PHP   7. include() /home/ubuntu/workspace/codeigniter/system/core/Loader.php:833
